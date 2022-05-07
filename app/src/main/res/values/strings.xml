@@ -1,0 +1,129 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GitHub User App</string>
+
+    <!--    Splash Screen String Value-->
+    <string name="authorDeclaration">Dibuat oleh : Luthfi Yafi Alfiansyah</string>
+
+    <!--    Option Menu String Value-->
+    <string name="findUsername">Find Username</string>
+
+    <!--    Item Users Layout String Value-->
+    <string name="avatar_image">avatar_image</string>
+
+    <string name="user">User</string>
+
+    <string name="usernameTitle">"Nama Pengguna : "</string>
+    <string name="username">Username</string>
+
+    <string name="company">Company</string>
+    <string name="companyTitle">"Bekerja di "</string>
+
+    <string name="repository">%s Repositories</string>
+    <string name="followings">%s Following</string>
+    <string name="follower">%s Followers</string>
+
+    <!--    Detail User String Value-->
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+
+    <string name="name">Loading name…</string>
+    <string name="location">Location</string>
+
+<!--    Fragment String Value-->
+    <string name="errorMessageFollowing">Pengguna Tidak Mengikuti Siapapun</string>
+    <string name="errorMessageFollowers">Pengguna Tidak Memiliki Pengikut</string>
+
+    <!--    From String Value Before Object-->
+    <string-array name="username" tools:keep="@array/username">
+        <item>JakeWharton</item>
+        <item>amitshekhariitbhu</item>
+        <item>romainguy</item>
+        <item>chrisbanes</item>
+        <item>tipsy</item>
+        <item>ravi8x</item>
+        <item>jasoet</item>
+        <item>budioktaviyan</item>
+        <item>hendisantika</item>
+        <item>sidiqpermana</item>
+    </string-array>
+
+    <string-array name="name" tools:keep="@array/name">
+        <item>Jake Wharton</item>
+        <item>Amit Shekhar</item>
+        <item>Romain Guy</item>
+        <item>Chris Banes</item>
+        <item>David</item>
+        <item>Ravi Tamada</item>
+        <item>Deny Prasetyo</item>
+        <item>Budi Oktaviyan</item>
+        <item>Hendi Santika</item>
+        <item>Sidiq Permana</item>
+    </string-array>
+
+    <string-array name="location" tools:keep="@array/location">
+        <item>Pittsburgh, PA, USA</item>
+        <item>New Delhi, India</item>
+        <item>California</item>
+        <item>Sydney, Australia</item>
+        <item>Trondheim, Norway</item>
+        <item>India</item>
+        <item>Kotagede, Yogyakarta, Indonesia</item>
+        <item>Jakarta, Indonesia</item>
+        <item>Bojongsoang - Bandung Jawa Barat</item>
+        <item>Jakarta Indonesia</item>
+    </string-array>
+
+    <string-array name="repository" tools:keep="@array/repository">
+        <item>102</item>
+        <item>37</item>
+        <item>9</item>
+        <item>30</item>
+        <item>56</item>
+        <item>28</item>
+        <item>44</item>
+        <item>110</item>
+        <item>1064</item>
+        <item>65</item>
+    </string-array>
+
+    <string-array name="company" tools:keep="@array/company">
+        <item>Google, Inc.</item>
+        <item>MindOrksOpenSource</item>
+        <item>Google</item>
+        <item>Google working on @android</item>
+        <item>Working Group Two</item>
+        <item>AndroidHive | Droid5</item>
+        <item>gojek-engineering</item>
+        <item>KotlinID</item>
+        <item>JVMDeveloperID @KotlinID @IDDevOps</item>
+        <item>Nusantara Beta Studio</item>
+    </string-array>
+
+    <string-array name="followers" tools:keep="@array/followers">
+        <item>56995</item>
+        <item>5153</item>
+        <item>7972</item>
+        <item>14725</item>
+        <item>788</item>
+        <item>18628</item>
+        <item>277</item>
+        <item>178</item>
+        <item>428</item>
+        <item>465</item>
+    </string-array>
+
+    <string-array name="following" tools:keep="@array/following">
+        <item>12</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>39</item>
+        <item>23</item>
+        <item>61</item>
+        <item>10</item>
+    </string-array>
+
+
+</resources>
